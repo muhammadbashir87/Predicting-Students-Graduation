@@ -9,7 +9,7 @@ This is a data science project that uses both regression and classification mode
 
 
 ## Dataset Source and Rows
-two sets of different datasets were used one to predict students performance and the other one to predict students graduation. The data used were both from [KAGGLE](https://kaggle.com) and [UCI Repository] (https://http://archive.ics.uci.edu/ml/datasets/Student+Performance), both are free sources for datasets that are recognised by so many people in both academia and industry.
+two sets of different datasets were used one to predict students performance and the other one to predict students graduation. The data used were both from [KAGGLE](https://kaggle.com) and [UCI Repository](https://http://archive.ics.uci.edu/ml/datasets/Student+Performance), both are free sources for datasets that are recognised by so many people in both academia and industry.
 The performance datasets consists of 32 while for the students graduation/dropout data it includes more.
 
 
