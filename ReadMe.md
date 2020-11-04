@@ -1,7 +1,9 @@
 # A SCHEMA FOR PREDICTING STUDENTS' GRADUATION LIKELYHOOD  USING DATA MINING MODELS
 
 
-* The purpose of this work is to use data mining model. The Project uses both supervised and unsupervised models to make prediction.*
+* The purpose of this work is to use data mining model to predict students performance and dropout. The Project uses both supervised and unsupervised models to make prediction.*
+
+
 
 
 ## Introduction
@@ -11,11 +13,12 @@ This is a data science project that uses both regression and classification mode
 ## Dataset Source and Rows
 two sets of different datasets were used one to predict students performance and the other one to predict students graduation. The data used were both from [KAGGLE](https://kaggle.com) and [UCI Repository](https://http://archive.ics.uci.edu/ml/datasets/Student+Performance), both are free sources for datasets that are recognised by so many people in both academia and industry.
 The performance datasets consists of 32 while for the students graduation/dropout data it includes more.
+![Students Image](original.jpg)
 
 
 ## Algorithms and Libraries
 
-For the prediction part two algorithms were used which are Support Vector Machine and Linear Regression. These models were implemented using [Scikit learning] (https://https://scikit-learn.org/stable/). Other libraries used mostly during data analysis and data analysis and data cleaning includes:
+For the prediction part two algorithms were used which are Support Vector Machine and Linear Regression. These models were implemented using [Scikit learning](https://https://scikit-learn.org/stable/). Other libraries used mostly during data analysis and data analysis and data cleaning includes:
  -Pandas: for importing data and cleaning. 
  -Numpy: for mathematical calculations.
  -Matplotlib: for data visualization.
