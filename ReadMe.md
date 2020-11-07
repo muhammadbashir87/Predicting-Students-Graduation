@@ -32,13 +32,6 @@ For the prediction part two algorithms were used which are Support Vector Machin
 the entire project was classified into three activities namely:
 -importing and cleaning data.
 -data analysis.
--pipeline creation and 
-
-
-## Results and Mistakes
-
-
-
-## Future Work
+-pipeline creation and evaluation.
 
 
